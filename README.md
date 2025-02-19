@@ -11,7 +11,8 @@ This project extracts cricket team rankings from the **Cricbuzz API**, transform
 # Requirements
 
 - Python 3.8
+- Jupyter notebook
 - PostgreSql
-- Required Python Libaries: pandas, requests, psycopg2, csv
+- Required Python Libaries: pandas, requests, psycopg2, csv-
 
 
